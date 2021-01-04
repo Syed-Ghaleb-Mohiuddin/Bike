@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  overflow: hidden;
+}
+li {
+  list-style: none;
+  font-family: sans-serif;
+  display: inline;
+  margin: 5px;
+  color: blue;
+  font-weight: bolder;
+}
+nav {
+  background-color: black;
+}
+img {
+  width: 100vw;
+  height: 95vh;
+}
